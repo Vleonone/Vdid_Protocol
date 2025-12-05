@@ -22,7 +22,7 @@
 - Selective disclosure privacy  
 - V‑Score decentralized credit  
 - Identity → Energy → Value conversion  
-- Integration with Velgoo, RTPX, Workspace & MEVBOT  
+- Integration with Velgoo, RTPX, Workspace 
 
 ---
 
@@ -93,4 +93,4 @@ See `/docs` folder for all public-facing conceptual files.
 
 ---
 
-## © 2025 Velon Group Limited — All Rights Reserved
+## © 2025 Velon.One Labs Limited — All Rights Reserved
